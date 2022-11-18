@@ -1,0 +1,25 @@
+{
+  "name": "npm-init-example",
+  "version": "1.0.0",
+  "description": "social network",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-valean/social-network-api-noSql.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "api"
+  ],
+  "author": "Daniel Valean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-valean/social-network-api-noSql/issues"
+  },
+  "homepage": "https://github.com/daniel-valean/social-network-api-noSql#readme"
+}
